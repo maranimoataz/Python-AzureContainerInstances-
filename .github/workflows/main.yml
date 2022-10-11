@@ -2,8 +2,7 @@ name: build images continously from Dockerfile and push updated images to docker
 
 on: 
   push: 
-    branches:
-        [master]
+
 jobs:  
   build:
     runs-on: ubuntu-latest
