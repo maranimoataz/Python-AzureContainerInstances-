@@ -1,4 +1,4 @@
-name: build images continously from Dockerfile and push updated images to docker hub
+name: build images continously from Dockerfile and push updated images to docker hub ..
 
 on: 
   push: 
